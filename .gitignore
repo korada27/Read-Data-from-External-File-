@@ -1,0 +1,6 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/excel_to_json_nodejs/node_modules
+/exceltojson_angular/node_modules
